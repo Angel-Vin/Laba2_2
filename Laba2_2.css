@@ -2,8 +2,8 @@
   width: 35%;
   background: black;
   color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   
 
 }
@@ -62,14 +62,14 @@
 .footer{
   width: 35%;
   background: dimgrey;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 25px;
+  padding-bottom: 25px;
   margin-top: 1%;
 
 }
 .footer h1 {
   margin: 0;
   color: white;
-  padding-left: 25%;
+  padding-left: 29%;
   font-family: Arial, serif;
 }
